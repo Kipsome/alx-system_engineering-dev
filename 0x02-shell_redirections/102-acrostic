@@ -1,0 +1,2 @@
+#!/bin/bash
+awk '{print $1}' [A[B102-acrostic
