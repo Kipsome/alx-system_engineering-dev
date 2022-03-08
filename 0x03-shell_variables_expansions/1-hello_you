@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "hello" $USER[D[D[D[D[[[C[C[C[C[$USER
+#!bin/bash
+echo "hello $USER"
