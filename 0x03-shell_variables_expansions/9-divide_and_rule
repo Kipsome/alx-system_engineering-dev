@@ -1,2 +1,2 @@
 #!/bin/bash
-echo$(9[D[D[D [Co $((POWER / DIVIDE))[D[D[D[D[D[D[D[D[D[[C[C[[C[C[C[C[C[C[C[C[C
+echo $((POWER/DIVIDE))
